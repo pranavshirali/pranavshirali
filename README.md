@@ -1,22 +1,16 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Pranav Shirali</h1>
 <h3 align="center">A passionate B.E Computer Science student</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavshirali&label=Profile%20views&color=0e75b6&style=flat" alt="pranavshirali" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shiralipranav" target="blank"><img src="https://img.shields.io/twitter/follow/shiralipranav?logo=twitter&style=for-the-badge" alt="shiralipranav" /></a> </p>
 
-- 🔭 I’m currently working on [IPL Score Prediction Model](https://github.com/pranavshirali/IPL-Score-Predictor.git)
-
-- 🌱 I’m currently learning **Flutter, ML, ROS**
-
-- 🤝 I’m looking for help with **Robot Operating System (ROS)**
-
 - 👨‍💻 All of my projects are available at my GitHub
 
-- 📫 How to reach me **pranavshirali007@gmail.com/ pranavshirali.dev@gmail.com**
+- 📫 How to reach me **pranavshirali007@gmail.com/ pranavshirali.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
